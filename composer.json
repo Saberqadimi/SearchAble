@@ -1,0 +1,22 @@
+{
+    "name": "advancelearn/search-elequent",
+    "description": "By installing this package, you can easily search in ElQuent Laravel, even between nested relations",
+    "type": "library",
+    "keywords": ["search", "laravel", "eloquent"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Advancelearn\\SearchElequent\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saberqadimi",
+            "email": "qadimi43@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0.2",
+        "laravel/framework": "^9.19"
+    }
+}
