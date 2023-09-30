@@ -5,6 +5,9 @@
 
 <a name="introduction"></a>
 
+- [English documents](README.md)
+- [داکیومنت فارسی](README-FA.md)
+
 ## Introduction
 
 By installing this package, you can easily search the values and columns of each model You can use this package in your
