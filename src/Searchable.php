@@ -1,4 +1,5 @@
-<?php
+<?php /** @noinspection PhpMultipleClassDeclarationsInspection */
+
 namespace Advancelearn\SearchElequent;
 
 use Illuminate\Database\Eloquent\Builder;
